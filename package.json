@@ -1,0 +1,7 @@
+{
+  "name": "token-launch-radar",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Launch Radar — pre-token protocols ranked by a fitted value model"
+}
