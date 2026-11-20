@@ -18,3 +18,4 @@ Enabled deep-link filter state initialization from URL hash (cat, watch). Re-cap
 Dashboard total: 54,342 bytes. Screenshots: 1-board (168 KB, 1440x900), 2-detail (108 KB, 1440x900), 3-filtered (151 KB, 1440x900). Filtered count: 12. Highest FARM: 125 9summits.
 
 Entry complete and packaged: LICENSE (MIT, 2026 jusst01) and .makefun/owner.json added, pipeline re-verified byte-identical across two runs, and everything committed and published.
+- Session 9: Added SPDX-License-Identifier: MIT to LICENSE and removed generated output directories (out/, out1/, out2/, output/) from git tracking with corresponding .gitignore entries.
